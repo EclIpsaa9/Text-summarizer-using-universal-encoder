@@ -1,4 +1,4 @@
-#Automatic Text Summarization using Universal Sentence Encoder
+# Automatic Text Summarization using Universal Sentence Encoder
 
 This project utilizes the Universal Sentence Encoder to automatically generate summaries of text documents. The process involves several steps including preprocessing, spell checking, embedding sentences, calculating similarity scores, and generating the final summary.
 
